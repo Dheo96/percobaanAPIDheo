@@ -1,0 +1,6 @@
+@percobaanAPIDheo_HostAddress = http://localhost:5019
+
+GET {{percobaanAPIDheo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
